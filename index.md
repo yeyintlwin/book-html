@@ -66,7 +66,7 @@ HTML ပတ်သက်ပြီး စိတ်ဝင်စားဖို့�
 
 # HTML - Overview
 
-HTML ရဲ့အရှည်က <u>__H__</u>yper<u>__t__</u>ext <u>__M__</u>arkup <u>__L__</u>anguage ဖြစ်ပြီးတော့ web page တွေကိုရေးတဲ့နေရာမှာ ကျယ်ပြန့်စွာအသုံးပြုပါတယ်။
+HTML ရဲ့အရှည်က <u><b>H<b/></u>yper<u><b>t</b></u>ext <u><b>M</b></u>arkup <u><b>L</b></u>anguage ဖြစ်ပြီးတော့ web page တွေကိုရေးတဲ့နေရာမှာ ကျယ်ပြန့်စွာအသုံးပြုပါတယ်။
 
 * __Hypertext__ ဆိုတာ Web Pages (HTML documents) တစ်ခုနဲတစ်ခု ချိတ်ဆက်တဲ့ နည်းလမ်းကို ကိုစားပြုထားတာ ဖြစ်ပါတယ်။ ထိုကြောင့် webpage တစ်ခုမှာ link လုပ်လို့ရရင် Hypertext လို့ခေါ်ပါတယ်။
 
